@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🎧 I'm an iOS Engineer, writer, and runner, interested in consumer apps
 - 👨🏾‍💻 I’m the creator of [Beginner Swift](https://www.beginnerswift.com), a newsletter on Swift and SwiftUI
-- 🦸 I help out at [Assemble](https://www.assemblepgh.org), most recently helping students build AI stuff
+- 🦸 I help out at [Assemble](https://assemblepgh.org/), most recently helping students build AI stuff
 - 🗣️ Ask me about longevity, espresso, Emerson, Byron, Chopin, Deutsch
 - 📖 Fun fact: I wrote a hard science fiction novel in 2020 called [Meredith](https://www.amazon.com/Meredith-Silicon-David-Oliver-Doswell/dp/B088T2ZZG5).
 - 📫 How to reach me: [DM](https://x.com/davidodoswell)
