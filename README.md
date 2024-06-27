@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🏴‍☠️ I’ve been teaching [smart teens](https://pittsburghaicamp.com/) how to use Large Language Models
-- 🌍 I’m learning how progress in education will evolve with new AI tools
-- 🎧 I’m happy to collaborate on something new and creative nowadays
-- 👀 I’m looking for a peer group whose members want surprising things
-- 🗣️ Ask me about SwiftUI, LLMs, HIIT, Emerson, Byron, Chopin, Deutsch
+- 🎧 I'm an iOS Engineer, writer, and runner, interested in consumer apps
+- 👨🏾‍💻 I’m the creator of [Beginner Swift](https://www.beginnerswift.com), a newsletter on Swift and SwiftUI
+- 🦸 I help out at [Assemble](https://www.assemble.org), most recently helping students build AI stuff
+- 🗣️ Ask me about Swift, Los Angeles, Emerson, Byron, Chopin, Deutsch
+- 📖 Fun fact: I wrote a hard science fiction novel in 2020 called [Meredith](https://www.amazon.com/Meredith-Silicon-David-Oliver-Doswell/dp/B088T2ZZG5).
 - 📫 How to reach me: [DM](https://x.com/davidodoswell)
-- 📖 Fun fact: I wrote a science fiction novel called [Meredith](https://www.amazon.com/Meredith-Silicon-David-Oliver-Doswell/dp/B088T2ZZG5).
+
