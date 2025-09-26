@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- I'm an engineer, writer, and stealth founder, interested in human longevity
+- I'm an engineer, writer, and stealth co-founder, interested in longevity
 - I’m the creator of [Maneuvo](https://apps.apple.com/us/app/maneuvo/id6739608378), an AI-powered image analyzer for men
 - I’m the creator of [Quaint Computing](https://www.quaintcomputing.com), an AI-powered trading journal
 - I built [Neurogames](https://www.neuroagetx.com/neuroage-test#games) at NeuroAge, a cognitive research tool and game
