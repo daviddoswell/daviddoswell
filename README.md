@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- I'm an iOS Engineer, writer, and runner, interested in consumer apps
+- I'm an Engineer, writer, and runner, interested in human longevity
 - I’m the founder of [Maneuvo](https://apps.apple.com/us/app/maneuvo/id6739608378), an AI-powered image analyzer for men
 - I’m the creator of [Beginner Swift](https://www.beginnerswift.com), a newsletter on Swift and SwiftUI
 - I built [Neurogames](https://www.neuroagetx.com/neuroage-test#games) at NeuroAge, a cognitive research tool and game
