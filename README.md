@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- I'm an Engineer, writer, and runner, interested in human longevity
+- I'm an engineer, writer, and fitness guy, interested in human longevity
 - I’m the founder of [Maneuvo](https://apps.apple.com/us/app/maneuvo/id6739608378), an AI-powered image analyzer for men
-- I’m the creator of [Beginner Swift](https://www.beginnerswift.com), a newsletter on Swift and SwiftUI
+- I’m the creator of [Quaint Computing](https://www.quaintcomputing.com), an AI-powered journal for futures traders
 - I built [Neurogames](https://www.neuroagetx.com/neuroage-test#games) at NeuroAge, a cognitive research tool and game
 - I help out at [Assemble](https://assemblepgh.org/), most recently helping students build AI stuff
 - Ask me about technology, power, history, culture, Emerson, Deutsch
