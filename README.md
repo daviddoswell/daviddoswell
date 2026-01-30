@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - I help out at [Assemble](https://assemblepgh.org/), most recently helping students build AI stuff
 - Ask me about technology, power, history, Chopin, Emerson, Deutsch
 - Fun fact: I wrote a hard science fiction novel in 2020 called [Meredith](https://www.amazon.com/Meredith-Silicon-David-Oliver-Doswell/dp/B088T2ZZG5).
-- Most projects are private. Ask me: [here](https://x.com/daviddoswellii)
+- Most projects are private. Ask me: [here](mailto:davidoliverdoswell@icloud.com)
 
