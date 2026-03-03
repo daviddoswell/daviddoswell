@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- I'm an software engineer, writer, and consultant, based in Los Angeles
+- I'm an software engineer, writer, and novelist, based in Los Angeles
 - I built [Oma Health](https://www.oma-health.com/ui/auth), an early-agentic platform for nurse practitioners
 - I built [Neurogames](https://www.neuroagetx.com/neuroage-test#games) at NeuroAge, a cognitive research and data tool
 - I’m the creator of [Maneuvo](https://apps.apple.com/us/app/maneuvo/id6739608378), an AI-powered image analyzer for men
