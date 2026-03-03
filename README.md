@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - I built [Oma Health](https://www.oma-health.com/ui/auth), an early-agentic platform for nurse practitioners
 - I built [Neurogames](https://www.neuroagetx.com/neuroage-test#games) at NeuroAge, a cognitive research and data tool
 - I’m the creator of [Maneuvo](https://apps.apple.com/us/app/maneuvo/id6739608378), an AI-powered image analyzer for men
-- I’ve built production mobile and software applications for AI startups
 - I help out at [Assemble](https://assemblepgh.org/), most recently helping students build AI stuff
 - Ask me about technology, power, history, Chopin, Emerson, Deutsch
 - Fun fact: I wrote a hard science fiction novel in 2020 called [Meredith](https://www.amazon.com/Meredith-Silicon-David-Oliver-Doswell/dp/B088T2ZZG5).
