@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - I'm an software engineer, writer, and novelist, based in Los Angeles
-- I'm currently building something new
+- I'm currently building something new while running a private consultancy
 - I built [Oma Health](https://www.oma-health.com/ui/auth), an early-agentic platform for nurse practitioners
 - I built [Neurogames](https://www.neuroagetx.com/neuroage-test#games) at NeuroAge, a cognitive research and data tool
 - I help out at [Assemble](https://assemblepgh.org/), most recently helping students build AI stuff
